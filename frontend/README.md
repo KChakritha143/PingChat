@@ -57,10 +57,11 @@ http://localhost:5173
 ```text
 client/
 ├── src/
-│   ├── components/
+│   ├── assets/
+    ├── App.css
 │   ├── App.jsx
-│   ├── main.jsx
-│   └── styles/
+│   ├── index.css
+│   └── main.jsx
 ├── public/
 ├── package.json
 └── vite.config.js
