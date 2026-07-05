@@ -91,6 +91,7 @@ https://ping-chat-black.vercel.app/
 
 ### When User gets disconnected
 <img width="1472" height="927" alt="image" src="https://github.com/user-attachments/assets/669094b7-6c34-4edf-9e41-758f0afe9b8f" />
+
 ### When User gets connected and multiple users joined
 <img width="1377" height="882" alt="image" src="https://github.com/user-attachments/assets/cd1e9da9-ae5d-453c-af44-7cb609d860f9" />
 
