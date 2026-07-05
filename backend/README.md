@@ -142,6 +142,7 @@ const PORT = process.env.PORT || 5000;
 
 In terminal
 <img width="956" height="495" alt="image" src="https://github.com/user-attachments/assets/884c7016-c0c1-41a1-a447-8ae42347f1fa" />
+
 In Website
 <img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/9bed92b8-6ae5-4d49-b2ba-7243c58adfa2" />
 
