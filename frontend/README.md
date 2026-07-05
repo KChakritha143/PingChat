@@ -98,7 +98,7 @@ https://ping-chat-black.vercel.app/
 
 ### Chat conversation between users
 User-01
-<img width="1382" height="867" alt="image" src="https://github.com/user-attachments/assets/07c4cc0f-b1c5-454a-9c28-9e7b60e7ccc8" />
+<img width="1387" height="901" alt="image" src="https://github.com/user-attachments/assets/84fdb143-e952-494f-b83b-4f0239bb7968" />
 
 User-02
 <img width="1362" height="837" alt="image" src="https://github.com/user-attachments/assets/176778dc-6447-4405-b74a-660a39731b5a" />
